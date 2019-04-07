@@ -1,6 +1,6 @@
 ﻿<a href="http://www.kios.ucy.ac.cy"><img src="http://www.kios.ucy.ac.cy/templates/favourite/images/kios_logo_hover.png"/><a>
 
-# QLockLayers
+# QLocklayers
 
 QGIS 3 plugin
 
