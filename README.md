@@ -6,4 +6,6 @@ QGIS 3 plugin
 
 This tool can be used to lock/unlock selected layers on the project. Using button or shortcut `Ctrl-R` to lock selected layers and using `Ctrl-U` to unlock selected layers.
 
+icons: www.flaticon.com
+
 * [QGIS Cyprus](https://www.facebook.com/qgiscyprus/)
