@@ -16,8 +16,8 @@ email=mariosmsk@gmail.com
 
 about=This tool can be used to lock/unlock selected layers on the project. Using button or shortcut `Ctrl-R` to lock selected layers and using `Ctrl-U` to unlock selected layers.
 
-tracker=https://github.com/KIOS-Research/QLocklayers/issues/
-repository=https://github.com/KIOS-Research/QLocklayers/
+tracker=https://github.com/Mariosmsk/QLocklayers/issues/
+repository=https://github.com/Mariosmsk/QLocklayers/
 # End of mandatory metadata
 
 # Recommended items:
