@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/QLocklayers" >
+        <file>lock.png</file>
+        <file>unlock.png</file>
+    </qresource>
+</RCC>
